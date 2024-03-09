@@ -1,4 +1,5 @@
 import rootTemplate from "./root.component.html";
+import "./root.style.css";
 
 angular.module("app").component("root", {
   template: rootTemplate,
