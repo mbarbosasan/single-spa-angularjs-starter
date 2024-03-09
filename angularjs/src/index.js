@@ -7,7 +7,7 @@ import "./components/components.all";
 const ngLifecycles = singleSpaAngularJS({
   angular: angular,
   mainAngularModule: "app",
-  uiRouter: true,
+  ngRoute: true,
   preserveGlobal: false,
   template: "<root />",
 });
