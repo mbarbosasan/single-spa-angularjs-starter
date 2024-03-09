@@ -33,6 +33,7 @@
     "angular": "1.8.3",
     "angular-route": "^1.8.3",
     "html-loader": "^5.0.0",
+    "postcss-prefix-selector": "^1.16.0",
     "single-spa-angularjs": "^4.3.1"
   }
 }
