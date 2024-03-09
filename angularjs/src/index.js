@@ -3,6 +3,7 @@ import angular from "angular";
 import appAngular from "./app.module";
 
 import "./components/components.all";
+import "../src/styles.global.css";
 
 const ngLifecycles = singleSpaAngularJS({
   angular: angular,
