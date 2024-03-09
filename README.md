@@ -12,4 +12,6 @@ This isn't supposed to be a definitive architecture, but a starting point for yo
 3. Run `pnpm start` to start root config.
 4. Change to the `angularjs` directory and run `pnpm install` again.
 5. Run `pnpm run serve` to start the AngularJS app.
-6. Go to `http://localhost:9000/` to see the app running.
+6. Change to the `angular-app` directory and run `pnpm install` again.
+7. Run `pnpm run serve:single-spa:angular-app` to start the Angular app.
+8. Go to `http://localhost:9000/` to see the app running.
