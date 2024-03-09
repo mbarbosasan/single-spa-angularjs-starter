@@ -40,9 +40,6 @@ devDependencies:
   cross-env:
     specifier: ^7.0.3
     version: 7.0.3
-  eslint:
-    specifier: ^7.32.0
-    version: 7.32.0
   eslint-config-important-stuff:
     specifier: ^1.1.0
     version: 1.1.0
@@ -55,9 +52,6 @@ devDependencies:
   html-webpack-plugin:
     specifier: ^5.3.2
     version: 5.6.0(webpack@5.90.3)
-  husky:
-    specifier: ^7.0.2
-    version: 7.0.4
   jest:
     specifier: ^27.5.1
     version: 27.5.1
@@ -3856,12 +3850,6 @@ packages:
   /human-signals@2.1.0:
     resolution: {integrity: sha512-B4FFZ6q/T2jhhksgkbEW3HBvWIfDW85snkQgawt07S7J5QXTk6BkNV+0yAeZrM5QpMAdYlocGoljn0sJ/WQkFw==}
     engines: {node: '>=10.17.0'}
-    dev: true
-
-  /husky@7.0.4:
-    resolution: {integrity: sha512-vbaCKN2QLtP/vD4yvs6iz6hBEo6wkSzs8HpRah1Z6aGmF2KW5PdYuAd7uX5a+OyBZHBhd+TFLqgjUgytQr4RvQ==}
-    engines: {node: '>=12'}
-    hasBin: true
     dev: true
 
   /iconv-lite@0.4.24:
