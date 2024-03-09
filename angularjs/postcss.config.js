@@ -6,7 +6,7 @@ module.exports = {
   plugins: [
     ["autoprefixer"],
     postcssPrefixSelector({
-      prefix: 'div[id$="angularjs"]',
+      prefix: 'div[id$="angularjs"] not(single-spa-parcel)',
     }),
   ],
 };
