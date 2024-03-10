@@ -5,6 +5,11 @@ legacy apps that uses AngularJS, especially in the case where you can't simple j
 
 This isn't supposed to be a definitive architecture, but a starting point for you to build your own, feel free to modify it as you need.
 
+In this project we have:
+- AngularJS with Webpack
+- Prefix to avoid CSS styles being applied to components outside of AngulaRJS.
+- AngularJS rendering a Parcel that contains Angular 15 with standalone components. (Checkout to the branch 'angularjs-with-parcels')
+
 ## Getting Started
 
 1. Clone this repository.
